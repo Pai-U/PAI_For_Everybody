@@ -12,4 +12,4 @@ This is what output looks like :<br>
 5.Info for tag management<br>
 
 
-![Alt text](https://raw.githubusercontent.com/Pai-U/Projet_PAI/main/Project%20-%20Marketing%20-%20Datalayer%20and%20tag%20mining/Output_dataset_as_image.jpg "Title")
+![Alt text](https://raw.githubusercontent.com/Pai-U/Projet_PAI/main/Project%20-%20Marketing%20-%20Datalayer%20and%20tag%20mining/Output_dataset_as_image.jpg "Output")
