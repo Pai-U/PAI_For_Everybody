@@ -1,6 +1,6 @@
 # Data layer Mining - Google Tag Manager for Web <br>
 A data layer is a JavaScript object that is used to pass information from your website to your Tag Manager container.<br>
-Sometimes your datalayer would not be installed like what marketing teams wish. That's why we need to provide a simple way for the marketing people in order to follow monthly the datalayer tags.
+Sometimes the datalayer would not be installed like what marketing teams wish. That's why we need to provide a simple way for the marketing people in order to follow monthly the datalayer tags.
 <br>
 <br>
 
