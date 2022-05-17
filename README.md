@@ -17,7 +17,7 @@ Mes projets personnels concernent :
 .......and so on !<br>
 
 <br>
-Je metterai à jour régulièrement mes nouveaux projets !<br>
+Je mettrai à jour régulièrement mes nouveaux projets !<br>
 A suivre !
 <br>
 Merci :)
