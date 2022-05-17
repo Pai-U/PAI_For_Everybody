@@ -13,7 +13,11 @@ Mes projets personnels concernent :
 - Customer clustering (Analyse statistique)<br>
 - Fouille des données (Web scrapping) et visualisation des données de la bourse sur Yahoo Finance<br>
 - Website datalayer mining: veille de Google Tag Manager for e-commerce<br>
+<br>
+.......and so on !<br>
 
 <br>
-
+Je metterai à jour régulièrement mes nouveaux projets !<br>
+A suivre !
+<br>
 Merci :)
