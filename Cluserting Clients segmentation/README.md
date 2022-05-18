@@ -1,4 +1,4 @@
-# Retail dataset analysis
+# Unsupervised clustering of clients with Retail data with R. 
 Income: annual household income of the client<br>
 Amount for each product category over the last 2 years<br>
 Number of purchases made for each channel and with discount<br>
