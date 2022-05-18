@@ -10,7 +10,7 @@ Mes projets personnels concernent :
 - Automatisation des processus d'extraction des données <br>
 - Automatisation des processus de reporting : nettoyage des données, traitement des données et création des tableaux croisés dynamiques<br>
 - Automatisation des téléchargements massifs <br>
-- Customer clustering (Analyse statistique)<br>
+- Unsupervised clustering of clients with R (K-means) <br>
 - Fouille des données (Web scrapping) et visualisation des données de la bourse sur Yahoo Finance<br>
 - Website datalayer mining: veille de Google Tag Manager for e-commerce<br>
 <br>
