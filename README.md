@@ -1,3 +1,23 @@
+# Hello ! Bienvenue dans mon Guthub !<br>
+
+I'm currently a data analyst at Air Liquide. <br>
+I put here all my personal projects of Python, R and SQL. <br>
+
+My personal projects are about:<br>
+
+- Automation of data extraction processes <br>
+- Automation of reporting processes : data cleaning, data processing and creation of pivot tables <br>
+- Automation of massive downloads<br>
+- Unsupervised clustering of clients with R (K-means)<br>
+- Web scrapping and visualization of stock market data on Yahoo Finance <br>
+- Website datalayer mining: monitoring Google Tag Manager for e-commerce <br>
+
+
+I will regularly update my new projects so stay tuned  <br>
+Thank you ! <br>
+
+
+
 # Bonjour ! Bienvenue dans mon Guthub !
 
 Je suis actuellement Data analyst au sein d'Air Liquide en alternance. <br>
