@@ -1,9 +1,5 @@
 # Unsupervised clustering of clients with Retail data with R. 
----
-layout: post
-title:  "Unsupervised clustering analysis with R"
-categories: R Statistics Retail_Data 
----
+
 This analytical report aims to segment clients' data by their annual income. Once clusterd, we can compare the relation between each cluster and each variable in order to conduct a precise customer analysis. <br>
 
 Variables of dataset: <br>
